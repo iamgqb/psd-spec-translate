@@ -2,3 +2,12 @@ File Formats Specification 文件格式规格说明
 native file format 原生文件格式
 chapters 章
 section 段
+features 特性
+layers 图层
+effects 效果
+filters 滤镜
+colors 颜色
+contours 轮廓
+curves 曲线
+levels 色阶
+big endian byte 大字节序
