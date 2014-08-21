@@ -12,8 +12,8 @@ Content
 
 #### Preface ####
 1. Audience -- 莫宇诚（已完成）
-- What is in this document
-- SDK User to User Forum
+- What is in this document（已完成）
+- SDK User to User Forum（已完成）
 
 #### The Photoshop File Format ####
 1. Introduction -- 莫宇诚（已完成）
