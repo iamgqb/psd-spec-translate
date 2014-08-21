@@ -11,18 +11,18 @@ Content
 -
 
 #### Preface ####
-1. Audience -- 莫宇诚
+1. Audience -- 莫宇诚（已完成）
 - What is in this document
 - SDK User to User Forum
 
 #### The Photoshop File Format ####
-1. Introduction -- 莫宇诚
+1. Introduction -- 莫宇诚（已完成）
 	- Large Document Format
 	- Windows
 	- Mac Os
-- Photoshop File Format -- 莫宇诚
-- File Header Section -- 莫宇诚
-- Color Mode Data Section -- 莫宇诚
+- Photoshop File Format -- 莫宇诚（已完成）
+- File Header Section -- 莫宇诚（已完成）
+- Color Mode Data Section -- 莫宇诚（已完成）
 - Image Resources Section
 	- Image Resource Blocks
 	- Image Resources IDs

@@ -11,3 +11,11 @@ contours 轮廓
 curves 曲线
 levels 色阶
 big endian byte 大字节序
+mask 蒙版
+File header 文件头
+Color mode data 色彩模式数据
+Image resources 图像资源
+Layer and mask information 图层和蒙版信息
+Image data 图像数据
+character 字符
+byte 字节
