@@ -26,7 +26,7 @@ Content
 - Image Resources Section
 	- Image Resource Blocks
 	- Image Resources IDs
-- Layer and Mask Information Section
+- Layer and Mask Information Section -- 高庆波
 	- Additional Layer Infomation
 - Image Data Section
 
@@ -37,7 +37,7 @@ Content
 	- TIFF Files on Mac OS
 
 #### Additional File Formats ####
-1. Actions -- 高庆波
+1. Actions -- 高庆波 (已完成)
 - Arbitrary Map
 	- Single active channels
 - CMYK Setup
