@@ -26,7 +26,7 @@ Content
 - Image Resources Section
 	- Image Resource Blocks
 	- Image Resources IDs
-- Layer and Mask Information Section -- 高庆波
+- Layer and Mask Information Section -- 高庆波(已完成)
 	- Additional Layer Infomation
 - Image Data Section
 
