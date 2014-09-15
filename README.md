@@ -23,7 +23,7 @@ Content
 - Photoshop File Format -- 莫宇诚（已完成）
 - File Header Section -- 莫宇诚（已完成）
 - Color Mode Data Section -- 莫宇诚（已完成）
-- Image Resources Section
+- Image Resources Section -- 莫宇诚（已完成）
 	- Image Resource Blocks
 	- Image Resources IDs
 - Layer and Mask Information Section -- 高庆波(已完成)
