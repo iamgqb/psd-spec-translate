@@ -28,7 +28,7 @@ Content
 	- Image Resources IDs
 - Layer and Mask Information Section -- 高庆波(已完成)
 	- Additional Layer Infomation
-- Image Data Section
+- Image Data Section -- 高庆波(已完成)
 
 #### Other Document File Formats ####
 1. Photoshop EPS files
