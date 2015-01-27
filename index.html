@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PSD Translate</title>
+    <link rel="stylesheet" href="./markdown.css">
+    <script src="http://style.c.aliimg.com/fdevlib/js/gallery/jquery/jquery-latest.js"></script>
+    <script src="./markdown.js"></script>
+    <script>
+        var chapters = [
+            './Preface.md',
+            './The Photoshop File Format/1.Introduction.md',
+            './The Photoshop File Format/1.Introduction.md',
+            './The Photoshop File Format/2.Photoshop File Format.md',
+            './The Photoshop File Format/3.File Header Section.md',
+            './The Photoshop File Format/4.Color Mode Data Section.md',
+            './The Photoshop File Format/5.ImageResources.md',
+            './The Photoshop File Format/6.Layer and Mask Information Section.md',
+            './The Photoshop File Format/7.Image Data Section.md',
+            './Additional File Formats/1.actions.md'
+        ];
+
+        function getMD(chapters){
+
+            if(chapters.length > 0){
+                $.ajax({
+                    url: chapters.shift(),
+                    type: 'GET'
+                }).done(function(res){
+                    $('body').append($(parseMD(res)));
+                    getMD(chapters)
+                })                
+            }
+           
+        }
+
+        function parseMD(str){ console.log(markdown.toHTML(str))
+            return markdown.toHTML(str, 'Maruku');            
+        }
+
+        getMD(chapters)
+    </script>
+</head>
+<body class="markdown">
+<a href="http://www.adobe.com/devnet-apps/photoshop/fileformatashtml/">原文链接</a>
+</body>
+</html>
